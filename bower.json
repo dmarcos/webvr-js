@@ -1,0 +1,25 @@
+{
+  "name": "webvr.js",
+  "version": "0.0.1",
+  "homepage": "http://threejs.org/",
+  "description": "The WebVR library",
+  "main": "build/webvr.js",
+  "keywords": [
+    "three",
+    "threejs",
+    "webvr",
+    "3D",
+    "webgl"
+  ],
+  "license": "MIT",
+  "ignore": [
+  "**/.*",
+  "*.md",
+  "docs",
+  "examples",
+  "src",
+  "test",
+  "utils",
+  "LICENSE"
+  ]
+}
